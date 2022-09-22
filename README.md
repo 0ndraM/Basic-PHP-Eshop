@@ -76,14 +76,6 @@ Den	Počet objednávek
 3.12.2021	11
 atd	
 
-5)	Volitelné:  Zobrazení statistiky, opět formou tabulka, kde bude počet objednávek rozdělený podle jednotlivých druhů zboží za x posledních dnů.
-Objednávky od   …  do ….
-pizza	Počet objednávek
-Název produktu 1	14
-Název produktu 2	20
-Název produktu 3	18
-atd	
-
 
 
 
